@@ -54,7 +54,7 @@ The platform follows a **modular, event‑driven architecture** to ensure low la
 
 <img width="5084" height="3632" alt="deepseek_mermaid_20260303_45d13e" src="https://github.com/user-attachments/assets/f6ada325-6dfc-4cb8-a480-6cdebfedbe99" />
 
-- **Data Flow**
+- **Data Flow:**
   
 **Data Ingestion** – Drilling sensors (or a playback file) send real‑time telemetry via MQTT or WebSocket to the Django backend.
 
